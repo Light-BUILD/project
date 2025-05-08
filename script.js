@@ -46,14 +46,14 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["TOBEUPDATED", "TOBEUPDATED", "TOBEUPDATED", "TOBEUPDATED"],
+        strings: ["CONNECT AND GROW", "CONNECT AND GROW", "CONNECT AND GROW", "CONNECT AND GROW"],
         typeSpeed: 100,
         backSpeed: 80,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
-        strings: ["TOBEUPDATED", "TOBEUPDATED", "TOBEUPDATED", "TOBEUPDATED"],
+        strings: ["CONNECT AND GROW", "CONNECT AND GROW", "CONNECT AND GROW", "CONNECT AND GROW"],
         typeSpeed: 100,
         backSpeed: 80,
         loop: true
